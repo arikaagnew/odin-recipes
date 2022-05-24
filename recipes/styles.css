@@ -1,6 +1,6 @@
 h1{
-    color: rgb(221, 52, 151);
-    background-color: green;
+    color: rgb(216, 252, 11);
+    background-color: rgb(11, 214, 250);
     font-family: verdana, sans-serif;
 }
 
@@ -18,4 +18,13 @@ h3{
 
 h4{
 	color: purple;
+}
+
+ol{
+    color: tomato;
+
+}
+
+ul{
+    color: tomato
 }
